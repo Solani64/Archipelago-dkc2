@@ -8,5 +8,4 @@ three_up_balloon = "3-Up Balloon"
 kremkoin = "Kremkoin"
 dk_coin = "DK Coin"
 
-
 # Victory
