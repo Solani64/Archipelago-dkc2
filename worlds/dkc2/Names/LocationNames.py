@@ -435,3 +435,54 @@ animal_antics_1up_1 = "Animal Antics - 1-Up 1"
 #animal_antics_bc_4 = "Animal Antics - Banana Coin 4"
 
 krocodile_kore_boss = "Krocodile Kore - Boss"
+
+#Shops/misc
+monkey_museum_gg = "Monkey Museum in Gangplank"
+
+
+#Reigons
+#Overworld
+menu_reigon = "Menu"
+crocodile_isle = "Crocodile Isle"
+gangplank_galleon = "Gangplank Galleon"
+crocodile_cauldron = "Crocodile Cauldron"
+krem_quay = "Krem Quay"
+krazy_kremalnd = "Krazy Kremland"
+gloomy_gulch = "Gloomy Gulch"
+krools_keep = "K.Rools Keep"
+flying_krock = "The Flying Krock"
+
+#Gankplank Galleon
+pirate_panic_reigon = "Pirate Panic Reigon"
+mainbrace_mayhem_reigon = "Mainbrace Mayhem Reigon"
+monkey_museum_gg_reigon = "Monkey Museum in Gangplank Reigon"
+gankplank_galley_reigon = "Gangplank Galley Reigon"
+kong_kollege_gg_reigon = "Kong Kollege in Gangplank Reigon"
+lockjaws_locker_reigon = "Lockjaw's Locker Reigon"
+swankys_bonus_bonanza_gg_reigon = "Swanky's Bonus Bonanza in Gangplank Reigon"
+topsail_trouble_reigon = "Topsail Trouble Reigon"
+funkys_flights_gg_reigon = "Funky's Flights in Gangplank Reigon"
+krows_nest_reigon = "Krow's Nest Reigon"
+
+#Crocodile Cauldron
+hothead_hop_reigon = "Hot-head Hop Reigon"
+klubba_kiosk_cc_reigon = "Klubba Kiosk in Cauldron Reigon"
+swankys_bonus_bonanza_cc_reigon = "Swanky's Bonus Bonanza in Crocodile Cauldron Reigon"
+kannons_klaim_reigon = "Kannons Klaim Reigon"
+funkys_flights_cc_reigon = "Funky's Flights in Crocodile Cauldron Reigon"
+lava_lagoon_reigon = "Lava Lagoon Reigon"
+kong_kollege_cc_reigon = "Kong Kollege in Crocodile Cauldron Reigon"
+redhoot_ride_reigon = "Red-Hot Ride Reigon"
+monkey_museum_cc_reigon = "Monkey Museum in Crocodile Cauldron Reigon"
+squaks_shaft_reigon = "Squaks Shaft Reigon"
+kleevers_kiln_reigon = "Kleevers Kiln Reigon"
+
+#Krem Quay
+barrel_bayou_reigon = "Barrel Bayou Reigon"
+glimmers_galleon_reigon = "Glimmer's Galleon Reigon"
+kong_kollege_kq_reigon = "Kong Kollege in Krem Quay Reigon"
+funkys_flights_kq_reigon = "Funky's Flights in Krem Quay Reigon"
+monkey_museum_kq_reigon = "Monkey Museum in Krem Quay Reigon"
+krockhead_klamber_reigon = "Krockhead Klamber Reigon"
+rattle_battle_reigon = "Rattle Battle Reigon"
+
